@@ -23,7 +23,6 @@ You can download it from the links below and place the files inside a `/data` fo
 - [Products](https://drive.google.com/file/d/1g1ciE2LZiKbwV81_tsTeLf-4SXOU4kxE/view?usp=drive_link)
 
 ## Key Findings
-This analysis looked at two years of sales data across about 2,100 households and multiple product departments. Here are the main takeaways.
 
 **1. Sales are stable with a small increase**
 Monthly sales don’t change much over time, but 2017 is slightly higher than 2016.
@@ -34,7 +33,10 @@ Sales are distributed evenly across the week. Sunday is a bit higher, but not by
 **3. Families aged 35–54 have the highest average spend**
 Households with children in the 35–44 and 45–54 age groups record the highest average spend per household.
 
-**4. Grocery is the main driver of sales**
+**4. Sales decline in the highest income bracket**
+Sales drop noticeably among households earning more than $100K. This may reflect different shopping preferences, competition from other retailers, or limitations in the sample data.
+
+**5. Grocery is the main driver of sales**
 Most spending comes from grocery and everyday essentials across all customer groups.
 
 ## Visualizations
@@ -71,7 +73,7 @@ Most spending comes from grocery and everyday essentials across all customer gro
 
 ---
 
-## contact 
+## Contact 
 **Amirabas Ziaee**
 - Linkedin: https://www.linkedin.com/in/amirabasziaee
 - Email: aaziaee04@gmail.com
