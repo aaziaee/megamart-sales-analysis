@@ -80,5 +80,5 @@ Most spending comes from grocery and everyday essentials across all customer gro
 
 ## Contact 
 **Amirabas Ziaee**
-- Linkedin: https://www.linkedin.com/in/amirabasziaee
+- LinkedIn: https://www.linkedin.com/in/amirabasziaee
 - Email: aaziaee04@gmail.com
